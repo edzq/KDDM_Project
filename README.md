@@ -1,5 +1,6 @@
 # KDDM_Project
 
+This repository is the project of my Data mining course.
 
 
 # Reference
